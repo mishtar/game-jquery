@@ -1,0 +1,44 @@
+div > h2 {
+    font-weight: bold;
+}
+
+table{
+    margin: 0 auto;
+    height: auto;
+    line-height: 1rem;
+}
+
+.btn-orange{
+    background-color:#f04500;
+}
+
+.form-control {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.game{
+    margin-top: 3rem;
+    text-align: center;
+    line-height: 3rem;
+}
+
+.modal-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: -40px;
+}
+
+.modal-content{
+    background-color: transparent;
+    border-style: none;
+}
+
+.titulo{
+    font-size: 78px;
+    margin-bottom: 30px;
+}
+
+
