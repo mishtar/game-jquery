@@ -1,1 +1,1 @@
-# gameJquery
+# Game Jquery
